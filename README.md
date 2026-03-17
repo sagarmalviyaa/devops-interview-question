@@ -178,9 +178,9 @@ $ whoami
 > sagarmalviya (DevOps Engineer)
 
 $ fetch --profile
-> GitHub:   [https://github.com/sagarmalviyaa](https://github.com/sagarmalviyaa)
-> LinkedIn: [https://www.linkedin.com/in/sagarmalviya](https://www.linkedin.com/in/sagarmalviya)
-
+> GitHub:   https://github.com/sagarmalviyaa
+> LinkedIn: https://www.linkedin.com/in/sagarmalviya
+> Contact:  work.sagarmalviya@gmail.com
 $ echo "Keep learning, keep automating! 🚀"
 > **Last updated:** March 2026 | Covers tools and practices current as of 2026.
 ```
